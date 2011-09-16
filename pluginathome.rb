@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-#
-# mikutterのpluginディレクトリ以下に配置すると~/mikutter_plugin以下の
+# mikutterのpluginディレクトリ以下に配置すると~/.mikutter/plugin/以下の
 # プラグインを読み込む
 
 dir = File.expand_path("~/.mikutter/plugins")
