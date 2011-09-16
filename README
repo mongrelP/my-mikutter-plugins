@@ -7,7 +7,7 @@ ctrlw.rb
     Ctrl+wでmikutterを終了する
 
 pluginathome.rb
-    ~/.mikutter_plugin以下のプラグインを読み込む
+    ~/.mikutter/plugins以下のプラグインを読み込む
 
 パッチ
 ======
