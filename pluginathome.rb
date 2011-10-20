@@ -7,4 +7,7 @@ if FileTest.directory?(dir)
     Dir.glob(dir + "/*.rb").each do |rb|
         require rb
     end
+    Dir.glob(dir + "./*/*.rb").each do |rb|
+        require rb
+    end
 end
